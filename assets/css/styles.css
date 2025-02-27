@@ -71,8 +71,8 @@ a.btn-cta-primary:hover,
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
-  background: #479fc8;
-  border: 1px solid #479fc8;
+  background: #ff4d00;
+  border: 1px solid #ff4d00;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -254,7 +254,7 @@ iframe {
   text-align: center;
   text-transform: uppercase;
   color: #fff;
-  background-color: #479fc8;
+  background-color: #ff4d00;
   -webkit-transform: rotate(45deg) translate3d(0, 0, 0);
   -moz-transform: rotate(45deg) translate3d(0, 0, 0);
   -ms-transform: rotate(45deg) translate3d(0, 0, 0);
